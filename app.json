@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "HAB_Packing",
+    "icon": "./assets/icon.png",
+    "version": "1.05",
+    "slug": "hab_packing",
+    "sdkVersion": "35.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.hatandbeyond.habPacking",
+      "supportsTablet": true,
+      "isTabletOnly": true,
+      "buildNumber": "11"
+    },
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
