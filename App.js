@@ -9,7 +9,7 @@ import MainScreen from "./src/MainScreen";
 const AppNavigator = createStackNavigator({
   
   Home: {
-    screen: MainScreen,
+    screen: LoginScreen,
     navigationOptions: {
       header: null
     }
